@@ -1,0 +1,74 @@
+[
+    {
+        "pool": 1,
+        "total_pulls": 6799,
+        "average_pulls_for_up_4_star": 7.5316649642492335,
+        "average_pulls_for_up_5_star": 53.72774869109948
+    },
+    {
+        "pool": 2,
+        "total_pulls": 54430,
+        "average_pulls_for_up_4_star": 7.738039215686275,
+        "average_pulls_for_up_5_star": 59.236111111111114
+    },
+    {
+        "pool": 3,
+        "total_pulls": 119985,
+        "average_pulls_for_up_4_star": 7.749597423510467,
+        "average_pulls_for_up_5_star": 60.05511811023622
+    },
+    {
+        "pool": 4,
+        "total_pulls": 36867,
+        "average_pulls_for_up_4_star": 7.573146292585171,
+        "average_pulls_for_up_5_star": 66.21022727272727
+    },
+    {
+        "pool": 5,
+        "total_pulls": 2200,
+        "average_pulls_for_up_4_star": 7.616451016635859,
+        "average_pulls_for_up_5_star": 58.27368421052632
+    },
+    {
+        "pool": 6,
+        "total_pulls": 2807,
+        "average_pulls_for_up_4_star": 7.684994861253854,
+        "average_pulls_for_up_5_star": 61.39299610894942
+    },
+    {
+        "pool": 7,
+        "total_pulls": 1878,
+        "average_pulls_for_up_4_star": 7.695052716950527,
+        "average_pulls_for_up_5_star": 60.26315789473684
+    },
+    {
+        "pool": 8,
+        "total_pulls": 541,
+        "average_pulls_for_up_4_star": 7.36964980544747,
+        "average_pulls_for_up_5_star": 63.30434782608695
+    },
+    {
+        "pool": 9,
+        "total_pulls": 653,
+        "average_pulls_for_up_4_star": 7.3559322033898304,
+        "average_pulls_for_up_5_star": 62.14754098360656
+    },
+    {
+        "pool": 10,
+        "total_pulls": 139,
+        "average_pulls_for_up_4_star": 7.823529411764706,
+        "average_pulls_for_up_5_star": 74.81818181818181
+    },
+    {
+        "pool": 11,
+        "total_pulls": 44,
+        "average_pulls_for_up_4_star": 7.45,
+        "average_pulls_for_up_5_star": 50.5
+    },
+    {
+        "pool": 12,
+        "total_pulls": 81,
+        "average_pulls_for_up_4_star": 7.459016393442623,
+        "average_pulls_for_up_5_star": 81.5
+    }
+]
