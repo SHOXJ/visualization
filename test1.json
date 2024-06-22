@@ -1,0 +1,732 @@
+[
+  {
+    "city": "weapon",
+    "line_chart_data": [
+      {
+        "pull_number": 1,
+        "probability": 0.00949367088607595
+      },
+      {
+        "pull_number": 2,
+        "probability": 0.007911392405063292
+      },
+      {
+        "pull_number": 3,
+        "probability": 0.006329113924050633
+      },
+      {
+        "pull_number": 4,
+        "probability": 0.012658227848101266
+      },
+      {
+        "pull_number": 5,
+        "probability": 0.004746835443037975
+      },
+      {
+        "pull_number": 6,
+        "probability": 0.006329113924050633
+      },
+      {
+        "pull_number": 7,
+        "probability": 0.006329113924050633
+      },
+      {
+        "pull_number": 8,
+        "probability": 0.006329113924050633
+      },
+      {
+        "pull_number": 9,
+        "probability": 0.007911392405063292
+      },
+      {
+        "pull_number": 10,
+        "probability": 0.006329113924050633
+      },
+      {
+        "pull_number": 11,
+        "probability": 0.011075949367088608
+      },
+      {
+        "pull_number": 12,
+        "probability": 0.011075949367088608
+      },
+      {
+        "pull_number": 13,
+        "probability": 0.0031645569620253164
+      },
+      {
+        "pull_number": 14,
+        "probability": 0.006329113924050633
+      },
+      {
+        "pull_number": 15,
+        "probability": 0.011075949367088608
+      },
+      {
+        "pull_number": 16,
+        "probability": 0.004746835443037975
+      },
+      {
+        "pull_number": 17,
+        "probability": 0.006329113924050633
+      },
+      {
+        "pull_number": 18,
+        "probability": 0.011075949367088608
+      },
+      {
+        "pull_number": 19,
+        "probability": 0.0031645569620253164
+      },
+      {
+        "pull_number": 20,
+        "probability": 0.004746835443037975
+      },
+      {
+        "pull_number": 21,
+        "probability": 0.012658227848101266
+      },
+      {
+        "pull_number": 22,
+        "probability": 0.0031645569620253164
+      },
+      {
+        "pull_number": 23,
+        "probability": 0.0015822784810126582
+      },
+      {
+        "pull_number": 24,
+        "probability": 0.012658227848101266
+      },
+      {
+        "pull_number": 25,
+        "probability": 0.00949367088607595
+      },
+      {
+        "pull_number": 26,
+        "probability": 0.00949367088607595
+      },
+      {
+        "pull_number": 27,
+        "probability": 0.004746835443037975
+      },
+      {
+        "pull_number": 28,
+        "probability": 0.0031645569620253164
+      },
+      {
+        "pull_number": 29,
+        "probability": 0.00949367088607595
+      },
+      {
+        "pull_number": 30,
+        "probability": 0.004746835443037975
+      },
+      {
+        "pull_number": 31,
+        "probability": 0.011075949367088608
+      },
+      {
+        "pull_number": 32,
+        "probability": 0.00949367088607595
+      },
+      {
+        "pull_number": 33,
+        "probability": 0.007911392405063292
+      },
+      {
+        "pull_number": 34,
+        "probability": 0.006329113924050633
+      },
+      {
+        "pull_number": 35,
+        "probability": 0.0031645569620253164
+      },
+      {
+        "pull_number": 36,
+        "probability": 0.004746835443037975
+      },
+      {
+        "pull_number": 37,
+        "probability": 0.006329113924050633
+      },
+      {
+        "pull_number": 38,
+        "probability": 0.006329113924050633
+      },
+      {
+        "pull_number": 39,
+        "probability": 0.0031645569620253164
+      },
+      {
+        "pull_number": 40,
+        "probability": 0.004746835443037975
+      },
+      {
+        "pull_number": 41,
+        "probability": 0.0015822784810126582
+      },
+      {
+        "pull_number": 42,
+        "probability": 0.007911392405063292
+      },
+      {
+        "pull_number": 43,
+        "probability": 0.006329113924050633
+      },
+      {
+        "pull_number": 44,
+        "probability": 0.006329113924050633
+      },
+      {
+        "pull_number": 45,
+        "probability": 0.007911392405063292
+      },
+      {
+        "pull_number": 46,
+        "probability": 0.0031645569620253164
+      },
+      {
+        "pull_number": 47,
+        "probability": 0.00949367088607595
+      },
+      {
+        "pull_number": 48,
+        "probability": 0.0031645569620253164
+      },
+      {
+        "pull_number": 49,
+        "probability": 0.004746835443037975
+      },
+      {
+        "pull_number": 50,
+        "probability": 0.0031645569620253164
+      },
+      {
+        "pull_number": 51,
+        "probability": 0.004746835443037975
+      },
+      {
+        "pull_number": 52,
+        "probability": 0.0015822784810126582
+      },
+      {
+        "pull_number": 53,
+        "probability": 0.0015822784810126582
+      },
+      {
+        "pull_number": 54,
+        "probability": 0.004746835443037975
+      },
+      {
+        "pull_number": 55,
+        "probability": 0.004746835443037975
+      },
+      {
+        "pull_number": 56,
+        "probability": 0.0031645569620253164
+      },
+      {
+        "pull_number": 57,
+        "probability": 0.0031645569620253164
+      },
+      {
+        "pull_number": 58,
+        "probability": 0.0015822784810126582
+      },
+      {
+        "pull_number": 59,
+        "probability": 0.0031645569620253164
+      },
+      {
+        "pull_number": 60,
+        "probability": 0.007911392405063292
+      },
+      {
+        "pull_number": 61,
+        "probability": 0.004746835443037975
+      },
+      {
+        "pull_number": 62,
+        "probability": 0.006329113924050633
+      },
+      {
+        "pull_number": 63,
+        "probability": 0.056962025316455694
+      },
+      {
+        "pull_number": 64,
+        "probability": 0.09335443037974683
+      },
+      {
+        "pull_number": 65,
+        "probability": 0.10759493670886076
+      },
+      {
+        "pull_number": 66,
+        "probability": 0.11075949367088607
+      },
+      {
+        "pull_number": 67,
+        "probability": 0.0949367088607595
+      },
+      {
+        "pull_number": 68,
+        "probability": 0.0680379746835443
+      },
+      {
+        "pull_number": 69,
+        "probability": 0.04113924050632911
+      },
+      {
+        "pull_number": 70,
+        "probability": 0.02531645569620253
+      },
+      {
+        "pull_number": 71,
+        "probability": 0.012658227848101266
+      },
+      {
+        "pull_number": 72,
+        "probability": 0.004746835443037975
+      },
+      {
+        "pull_number": 73,
+        "probability": 0.0015822784810126582
+      },
+      {
+        "pull_number": 74,
+        "probability": 0.0
+      },
+      {
+        "pull_number": 75,
+        "probability": 0.0
+      },
+      {
+        "pull_number": 76,
+        "probability": 0.0
+      },
+      {
+        "pull_number": 77,
+        "probability": 0.0
+      },
+      {
+        "pull_number": 78,
+        "probability": 0.0
+      },
+      {
+        "pull_number": 79,
+        "probability": 0.0
+      },
+      {
+        "pull_number": 80,
+        "probability": 0.0
+      },
+      {
+        "pull_number": 81,
+        "probability": 0.0
+      },
+      {
+        "pull_number": 82,
+        "probability": 0.0
+      },
+      {
+        "pull_number": 83,
+        "probability": 0.0
+      },
+      {
+        "pull_number": 84,
+        "probability": 0.0
+      },
+      {
+        "pull_number": 85,
+        "probability": 0.0
+      },
+      {
+        "pull_number": 86,
+        "probability": 0.0
+      },
+      {
+        "pull_number": 87,
+        "probability": 0.0
+      },
+      {
+        "pull_number": 88,
+        "probability": 0.0
+      },
+      {
+        "pull_number": 89,
+        "probability": 0.0
+      },
+      {
+        "pull_number": 90,
+        "probability": 0.0
+      }
+    ]
+  },
+  {
+    "city": "character",
+    "line_chart_data": [
+      {
+        "pull_number": 1,
+        "probability": 0.008286252354048965
+      },
+      {
+        "pull_number": 2,
+        "probability": 0.010922787193973634
+      },
+      {
+        "pull_number": 3,
+        "probability": 0.004519774011299435
+      },
+      {
+        "pull_number": 4,
+        "probability": 0.007532956685499058
+      },
+      {
+        "pull_number": 5,
+        "probability": 0.004143126177024482
+      },
+      {
+        "pull_number": 6,
+        "probability": 0.012806026365348399
+      },
+      {
+        "pull_number": 7,
+        "probability": 0.0064030131826741995
+      },
+      {
+        "pull_number": 8,
+        "probability": 0.005649717514124294
+      },
+      {
+        "pull_number": 9,
+        "probability": 0.008286252354048965
+      },
+      {
+        "pull_number": 10,
+        "probability": 0.008662900188323917
+      },
+      {
+        "pull_number": 11,
+        "probability": 0.005649717514124294
+      },
+      {
+        "pull_number": 12,
+        "probability": 0.0064030131826741995
+      },
+      {
+        "pull_number": 13,
+        "probability": 0.006779661016949152
+      },
+      {
+        "pull_number": 14,
+        "probability": 0.007156308851224105
+      },
+      {
+        "pull_number": 15,
+        "probability": 0.005649717514124294
+      },
+      {
+        "pull_number": 16,
+        "probability": 0.004143126177024482
+      },
+      {
+        "pull_number": 17,
+        "probability": 0.008286252354048965
+      },
+      {
+        "pull_number": 18,
+        "probability": 0.006026365348399247
+      },
+      {
+        "pull_number": 19,
+        "probability": 0.0064030131826741995
+      },
+      {
+        "pull_number": 20,
+        "probability": 0.006779661016949152
+      },
+      {
+        "pull_number": 21,
+        "probability": 0.004143126177024482
+      },
+      {
+        "pull_number": 22,
+        "probability": 0.006779661016949152
+      },
+      {
+        "pull_number": 23,
+        "probability": 0.007532956685499058
+      },
+      {
+        "pull_number": 24,
+        "probability": 0.004143126177024482
+      },
+      {
+        "pull_number": 25,
+        "probability": 0.007156308851224105
+      },
+      {
+        "pull_number": 26,
+        "probability": 0.004143126177024482
+      },
+      {
+        "pull_number": 27,
+        "probability": 0.003766478342749529
+      },
+      {
+        "pull_number": 28,
+        "probability": 0.0026365348399246705
+      },
+      {
+        "pull_number": 29,
+        "probability": 0.004896421845574388
+      },
+      {
+        "pull_number": 30,
+        "probability": 0.005273069679849341
+      },
+      {
+        "pull_number": 31,
+        "probability": 0.007909604519774011
+      },
+      {
+        "pull_number": 32,
+        "probability": 0.007156308851224105
+      },
+      {
+        "pull_number": 33,
+        "probability": 0.006026365348399247
+      },
+      {
+        "pull_number": 34,
+        "probability": 0.004143126177024482
+      },
+      {
+        "pull_number": 35,
+        "probability": 0.004143126177024482
+      },
+      {
+        "pull_number": 36,
+        "probability": 0.007156308851224105
+      },
+      {
+        "pull_number": 37,
+        "probability": 0.0022598870056497176
+      },
+      {
+        "pull_number": 38,
+        "probability": 0.0064030131826741995
+      },
+      {
+        "pull_number": 39,
+        "probability": 0.004143126177024482
+      },
+      {
+        "pull_number": 40,
+        "probability": 0.004896421845574388
+      },
+      {
+        "pull_number": 41,
+        "probability": 0.004143126177024482
+      },
+      {
+        "pull_number": 42,
+        "probability": 0.005273069679849341
+      },
+      {
+        "pull_number": 43,
+        "probability": 0.0030131826741996233
+      },
+      {
+        "pull_number": 44,
+        "probability": 0.003389830508474576
+      },
+      {
+        "pull_number": 45,
+        "probability": 0.006779661016949152
+      },
+      {
+        "pull_number": 46,
+        "probability": 0.0030131826741996233
+      },
+      {
+        "pull_number": 47,
+        "probability": 0.005649717514124294
+      },
+      {
+        "pull_number": 48,
+        "probability": 0.0022598870056497176
+      },
+      {
+        "pull_number": 49,
+        "probability": 0.004519774011299435
+      },
+      {
+        "pull_number": 50,
+        "probability": 0.004519774011299435
+      },
+      {
+        "pull_number": 51,
+        "probability": 0.003766478342749529
+      },
+      {
+        "pull_number": 52,
+        "probability": 0.006026365348399247
+      },
+      {
+        "pull_number": 53,
+        "probability": 0.004896421845574388
+      },
+      {
+        "pull_number": 54,
+        "probability": 0.003389830508474576
+      },
+      {
+        "pull_number": 55,
+        "probability": 0.003766478342749529
+      },
+      {
+        "pull_number": 56,
+        "probability": 0.003389830508474576
+      },
+      {
+        "pull_number": 57,
+        "probability": 0.0030131826741996233
+      },
+      {
+        "pull_number": 58,
+        "probability": 0.004896421845574388
+      },
+      {
+        "pull_number": 59,
+        "probability": 0.005273069679849341
+      },
+      {
+        "pull_number": 60,
+        "probability": 0.005273069679849341
+      },
+      {
+        "pull_number": 61,
+        "probability": 0.0022598870056497176
+      },
+      {
+        "pull_number": 62,
+        "probability": 0.004143126177024482
+      },
+      {
+        "pull_number": 63,
+        "probability": 0.003389830508474576
+      },
+      {
+        "pull_number": 64,
+        "probability": 0.0030131826741996233
+      },
+      {
+        "pull_number": 65,
+        "probability": 0.004519774011299435
+      },
+      {
+        "pull_number": 66,
+        "probability": 0.005649717514124294
+      },
+      {
+        "pull_number": 67,
+        "probability": 0.004143126177024482
+      },
+      {
+        "pull_number": 68,
+        "probability": 0.0018832391713747645
+      },
+      {
+        "pull_number": 69,
+        "probability": 0.0030131826741996233
+      },
+      {
+        "pull_number": 70,
+        "probability": 0.004519774011299435
+      },
+      {
+        "pull_number": 71,
+        "probability": 0.004519774011299435
+      },
+      {
+        "pull_number": 72,
+        "probability": 0.0030131826741996233
+      },
+      {
+        "pull_number": 73,
+        "probability": 0.0022598870056497176
+      },
+      {
+        "pull_number": 74,
+        "probability": 0.039171374764595104
+      },
+      {
+        "pull_number": 75,
+        "probability": 0.07457627118644068
+      },
+      {
+        "pull_number": 76,
+        "probability": 0.09943502824858758
+      },
+      {
+        "pull_number": 77,
+        "probability": 0.10207156308851224
+      },
+      {
+        "pull_number": 78,
+        "probability": 0.096045197740113
+      },
+      {
+        "pull_number": 79,
+        "probability": 0.08060263653483993
+      },
+      {
+        "pull_number": 80,
+        "probability": 0.05725047080979284
+      },
+      {
+        "pull_number": 81,
+        "probability": 0.03427495291902072
+      },
+      {
+        "pull_number": 82,
+        "probability": 0.021092278719397364
+      },
+      {
+        "pull_number": 83,
+        "probability": 0.009416195856873822
+      },
+      {
+        "pull_number": 84,
+        "probability": 0.004896421845574388
+      },
+      {
+        "pull_number": 85,
+        "probability": 0.0026365348399246705
+      },
+      {
+        "pull_number": 86,
+        "probability": 0.0
+      },
+      {
+        "pull_number": 87,
+        "probability": 0.0007532956685499058
+      },
+      {
+        "pull_number": 88,
+        "probability": 0.0
+      },
+      {
+        "pull_number": 89,
+        "probability": 0.0
+      },
+      {
+        "pull_number": 90,
+        "probability": 0.0
+      }
+    ]
+  }
+]
